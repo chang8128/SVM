@@ -1,0 +1,6 @@
+{
+	"SOURCE_FILE_PATH":"stock.txt",
+	"TARGET_FILE_PATH":"stock_out.txt",
+	"ERROR_LOG_PATH":"error.log",
+	"TANSLATE_URL":"http://qt.gtimg.cn"
+}
